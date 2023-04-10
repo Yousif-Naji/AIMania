@@ -6,8 +6,12 @@
 body {
     background-color: rgb(55, 65, 81);
     text-align: center;
+    color: whitesmoke;
 }
 li {
     display: inline-block;
     margin: 50px auto;
+}
+.logo, .marketing, .website {
+    border: 1px solid darkgreen;
 }
