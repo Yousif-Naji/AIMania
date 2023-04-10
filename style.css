@@ -1,7 +1,13 @@
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 body {
-    background-color: cornflowerblue;
+    background-color: rgb(55, 65, 81);
+    text-align: center;
+}
+li {
+    display: inline-block;
+    margin: 50px auto;
 }
